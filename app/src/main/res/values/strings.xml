@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Android02</string>
+    <string name="ingreseNombre">Ingrese su nombre:</string>
+    <string name="ingreseApellido">Ingrese su apellido:</string>
+    <string name="ingreseDni">Ingrese su DNI:</string>
+    <string name="sexo">Sexo:</string>
+    <string name="hombre">Hombre:</string>
+    <string name="mujer">Mujer:</string>
+    <string name="guardar">Guardar:</string>
 </resources>
